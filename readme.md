@@ -58,3 +58,5 @@ Download ESL Software [ESL_Software](http://wiki.telink-semi.cn/tools_and_sdk/ES
 6. __Step 6__: Refresh a picture to node
 
 ![Step 6](http://wiki.telink-semi.cn/dokuwiki/lib/exe/detail.php?id=menu%3Asolution%3Aesl&media=pasted:20181023-104400.png)
+
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
