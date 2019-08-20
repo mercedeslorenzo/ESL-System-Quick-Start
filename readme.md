@@ -1,5 +1,7 @@
 # ESL System Quick Start
 
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
+
 ## Arquitecture
 
 This pages shows Electronic Shelf Label (ESL) systems built on top of Telink's chipsets. The general architecture is demonstrated in the following diagram. A complete ELS system normally includes the following building blocks:
